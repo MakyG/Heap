@@ -1,6 +1,6 @@
 /**
  * @file       heap.c
- * @author     Ondřej Ševčík
+ * @author     Tomáš Makyča
  * @date       6/2019
  * @brief      Implementing of functions for heap
  * **********************************************************************
